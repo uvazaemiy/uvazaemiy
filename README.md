@@ -1,6 +1,6 @@
 <h1 align="center"><font face="verdana">Hi there, I'm <font color="SteelBlue">Ivan</font></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer scientist, a Unity/C# developer from Ukraine <div style="color=#FFD700">U</div><div style="color=#FFD700">A</div></h3>
+<h3 align="center">Computer scientist, a Unity/C# developer from Ukraine <p style="color:#FFD700">U</p><p style="color:#FFD700">A</p></h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
