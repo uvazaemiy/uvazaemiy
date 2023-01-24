@@ -20,14 +20,14 @@ I've also worked in IT project management, so I can work professionally in a tea
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="790" alt="LandOfGhost">
 </p>
 
-<p><ul>My skills and abilities:
+<p><ul><font size="9"><b>My skills and abilities:</font></b>
 
-<li>- Communicative</li>
-<li>- Speed of completing tasks</li>
-<li>- Product quality</li>
-<li>- Readable code</li>
-<li>- Responsibility<li>
-<li>- Teamwork<li></ul></p>
+<li>Communicative</li>
+<li>Speed of completing tasks</li>
+<li>Product quality</li>
+<li>Readable code</li>
+<li>Responsibility<li>
+<li>Teamwork<li></ul></p>
 
 My used technology stacks and capabilities:
 
