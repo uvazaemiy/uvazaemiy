@@ -9,7 +9,7 @@
 <p><font size="7" face="verdana">I am a <b>C# developer</b> of mobile and computer games on Unity3D Engine. My portfolio contains a lot of interesting projects from casual platformers and survival games to visual novels, logic and board games.</p>
 <p>My skills include Dotween, PayFab, Google Admob, Unity Ads, Particle system, Spine animation, DragonBones, Notifications, NavMesh, PlayFab Analytics/Datastore, Hypercasual, Indie projects, Localization system, Visual novels. 
 I've also worked in IT project management, so I can work professionally in a team and communicate with customers and colleagues.</p>
-<p>I invite you to take a brief look at some of my projects, the solutions I used in them, and to take a visual look at what they are.</p>
+<p>I invite you to take a brief look at some of my projects, the solutions I used in them, and to take a visual look at what they are.</p></font>
 
 <p float="left">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="200" alt="SimpleMatch3">
@@ -20,7 +20,7 @@ I've also worked in IT project management, so I can work professionally in a tea
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="790" alt="LandOfGhost">
 </p>
 
-<p><font size="20"><b>My skills and abilities:</font></b>
+<p><font size="12" face="verdana"><b>My skills and abilities:</font></b>
 
 <ul><li>Communicative</li>
 <li>Speed of completing tasks</li>
