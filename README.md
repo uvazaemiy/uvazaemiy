@@ -16,6 +16,6 @@ I've also worked in IT project management, so I can work professionally in a tea
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="167" alt="KittyMobile">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/BalanceBoard.gif" width="205" alt="BalancBoard">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/PetPlayfab.gif" width="205" alt="PetPlayfab">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="760" alt="Casino">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="760" alt="LandOfGhost">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="770" alt="Casino">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="770" alt="LandOfGhost">
 </p>
