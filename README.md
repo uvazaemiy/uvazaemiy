@@ -20,7 +20,7 @@ I've also worked in IT project management, so I can work professionally in a tea
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="790" alt="LandOfGhost">
 </p>
 
-<p><font size="12"><b>My skills and abilities:</font></b>
+<p><font size="20"><b>My skills and abilities:</font></b>
 
 <ul><li>Communicative</li>
 <li>Speed of completing tasks</li>
