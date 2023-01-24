@@ -7,8 +7,7 @@
 </div>
 
 <p><font size="7" face="verdana">I am a <b>C# developer</b> of mobile and computer games on Unity3D Engine. My portfolio contains a lot of interesting projects from casual platformers and survival games to visual novels, logic and board games.</p>
-<p>My skills include Dotween, PayFab, Google Admob, Unity Ads, Particle system, Spine animation, DragonBones, Notifications, NavMesh, PlayFab Analytics/Datastore, Hypercasual, Indie projects, Localization system, Visual novels. 
-I've also worked in IT project management, so I can work professionally in a team and communicate with customers and colleagues.</p>
+<p>I am able to work with the PlayFab database, connect analytics to customer game products, write visual novels, strategies, RPG games, races, runners, casual and indie projects and many other types of games. As I know the basics of narrative game design, I can also help with creativity and ideas for gamification of customer products. I've also worked in IT project management, so I can professionally work in a team, communicate with customers and colleagues and properly estimate plans of development.</p>
 <p>I invite you to take a brief look at some of my projects, the solutions I used in them, and to take a visual look at what they are.</p></font>
 
 <p float="left">
@@ -41,3 +40,13 @@ I've also worked in IT project management, so I can work professionally in a tea
 <li>NavMesh</li>
 <li>Hypercasual, indie projects. visual novels</li>
 <li>Localization system</li>
+
+<p><b><font size="20" face="verdana">Also work with:</font></b></p>
+
+<ul><li>Attlasian Jira</li>
+<li>Attlasian Trello</li>
+<li>Notion</li>
+<li>Slack</li>
+<li>Figma</li>
+<li>Adobe Photoshop</li>
+<li>Adobe Premiere Pro</li>
