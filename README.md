@@ -39,7 +39,7 @@
 <li>Notifications</li>
 <li>NavMesh</li>
 <li>Hypercasual, indie projects. visual novels</li>
-<li>Localization system</li>
+<li>Localization system</li></ul>
 
 <p><b><font size="20" face="verdana">Also work with:</font></b></p>
 
@@ -49,4 +49,4 @@
 <li>Slack</li>
 <li>Figma</li>
 <li>Adobe Photoshop</li>
-<li>Adobe Premiere Pro</li>
+<li>Adobe Premiere Pro</li></ul>
