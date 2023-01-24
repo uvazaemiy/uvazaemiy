@@ -1,6 +1,6 @@
 <h1 align="center"><font face="verdana">Hi there, I'm Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer scientist, a Unity/C# developer from Ukraine UA</h3>
+<h3 align="center">Computer scientist, a Unity/C# developer from Ukraine UA</h3></font>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -20,7 +20,7 @@ I've also worked in IT project management, so I can work professionally in a tea
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="790" alt="LandOfGhost">
 </p>
 
-<p><font size="20" face="verdana"><b>My skills and abilities:</font></b></p>
+<p><b><font size="20" face="verdana">My skills and abilities:</font></b></p>
 
 <ul><li>Communicative</li>
 <li>Speed of completing tasks</li>
@@ -29,7 +29,7 @@ I've also worked in IT project management, so I can work professionally in a tea
 <li>Responsibility</li>
 <li>Teamwork</li></ul>
 
-<p><b><font size="20" face="verdana">My skills and abilities:</font></b></p>
+<p><b><font size="20" face="verdana">My used technology stacks and capabilities:</font></b></p>
 
 <ul><li>Dotween.</li>
 <li>PayFab, Firebase (read-only)</li>
