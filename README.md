@@ -20,24 +20,24 @@ I've also worked in IT project management, so I can work professionally in a tea
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="790" alt="LandOfGhost">
 </p>
 
-<p><font size="12" face="verdana"><b>My skills and abilities:</font></b>
+<p><font size="20" face="verdana"><b>My skills and abilities:</font></b></p>
 
 <ul><li>Communicative</li>
 <li>Speed of completing tasks</li>
 <li>Product quality</li>
 <li>Readable code</li>
-<li>Responsibility<li>
-<li>Teamwork<li></ul></p>
+<li>Responsibility</li>
+<li>Teamwork</li></ul>
 
-My used technology stacks and capabilities:
+<p><b><font size="20" face="verdana">My skills and abilities:</font></b></p>
 
-- Dotween.
-- PayFab, Firebase (read-only)
-- Google Admob, Unity Ads.
-- PlayFab Analytics/Datastore
-- Particle system
-- Spine animation, DragonBones
-- Notifications
-- NavMesh
-- Hypercasual, indie projects. visual novels
-- Localization system
+<ul><li>Dotween.</li>
+<li>PayFab, Firebase (read-only)</li>
+<li>Google Admob, Unity Ads.</li>
+<li>PlayFab Analytics/Datastore</li>
+<li>Particle system</li>
+<li>Spine animation, DragonBones</li>
+<li>Notifications</li>
+<li>NavMesh</li>
+<li>Hypercasual, indie projects. visual novels</li>
+<li>Localization system</li>
