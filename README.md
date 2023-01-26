@@ -13,10 +13,10 @@
 <p float="left">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="200" alt="SimpleMatch3">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="167" alt="KittyMobile">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/BalanceBoard.gif" width="205" alt="BalanceBoard">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/PetPlayfab.gif" width="205" alt="PetPlayfab">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="790" alt="Casino">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="790" alt="LandOfGhost">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/BalanceBoard.gif" width="203" alt="BalanceBoard">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/PetPlayfab.gif" width="200" alt="PetPlayfab">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="788" alt="Casino">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="788" alt="LandOfGhost">
 </p>
 
 <p><b><font size="20" face="verdana">My skills and abilities:</font></b></p>
