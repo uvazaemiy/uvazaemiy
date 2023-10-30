@@ -12,15 +12,15 @@
 <p>I invite you to take a brief look at some of my projects, the solutions I used in them, and to take a visual look at what they are.</p></font>
 
 <p float="left">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="210" alt="Bullet 3D">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC2.gif" width="210" alt="Genius Basketball">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC8.gif" width="210" alt="Happy Gardener">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC7.gif" width="210" alt="Angry Garbage">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="210" alt="Null">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC5.gif" width="200" alt="Trap Master">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="200" alt="Simple Match3">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC6.gif" width="204" alt="Loop Escape">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="201" alt="PetPlayfab">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="250" alt="Bullet 3D">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC2.gif" width="250" alt="Genius Basketball">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC8.gif" width="250" alt="Happy Gardener">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC7.gif" width="250" alt="Angry Garbage">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="250" alt="Null">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC5.gif" width="250" alt="Trap Master">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="250" alt="Simple Match3">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC6.gif" width="250" alt="Loop Escape">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="180" alt="Kitty Mobile">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="783" alt="Casino">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="780" alt="LandOfGhost">
 </p>
