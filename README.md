@@ -37,17 +37,17 @@
 
 <p><b><font size="20" face="verdana">My used technology stacks and capabilities:</font></b></p>
 
-<ul><li>Dotween.</li>
-<li>PayFab, Firebase</li>
-<li>Google Admob, Unity Ads.</li>
+<ul><li>Dotween</li>
+<li>PlayFab, Firebase</li>
+<li>Google Admob, Unity Ads</li>
 <li>PlayFab Analytics/Datastore</li>
 <li>Adjust</li>
 <li>Facebook, Game Analytics</li>
-<li>Particle system</li>
+<li>Particle system, basic VFX</li>
 <li>Spine animation, DragonBones</li>
 <li>Notifications</li>
 <li>NavMesh</li>
-<li>Hypercasual, indie projects. visual novels</li>
+<li>Ragdoll, 3D animations</li>
 <li>Localization system</li></ul>
 
 <p><b><font size="20" face="verdana">Also work with:</font></b></p>
@@ -59,4 +59,5 @@
 <li>Slack</li>
 <li>Figma</li>
 <li>Adobe Photoshop</li>
-<li>Adobe Premiere Pro</li></ul>
+<li>Adobe Premiere Pro</li>
+<li>Blender</li></ul>
