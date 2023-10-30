@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+
 <h1 align="center"><font face="verdana">Hi there, I'm Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer scientist, a Unity/C# developer from Ukraine UA</h3></font>
@@ -97,3 +101,6 @@
 <li>Figma</li>
 <li>Adobe Photoshop</li>
 <li>Adobe Premiere Pro</li></ul>
+
+</body>
+</html>
