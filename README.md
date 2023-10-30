@@ -16,12 +16,12 @@
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC2.gif" width="260" alt="Genius Basketball">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC8.gif" width="260" alt="Happy Gardener">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC7.gif" width="260" alt="Angry Garbage">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="260" alt="Null">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/BalanceBoard.gif" width="260" alt="Balance Board">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC5.gif" width="260" alt="Trap Master">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="260" alt="Simple Match3">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC6.gif" width="264" alt="Loop Escape">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="216" alt="Kitty Mobile">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="783" alt="Casino">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/CraftConnect.gif" width="780" alt="Craft Connect">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="780" alt="LandOfGhost">
 </p>
 
