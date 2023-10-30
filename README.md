@@ -21,7 +21,7 @@
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="260" alt="Simple Match3">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC6.gif" width="264" alt="Loop Escape">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="216" alt="Kitty Mobile">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/CraftConnect.gif" width="780" alt="Craft Connect">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC4.gif" width="780" alt="Craft Connect">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="780" alt="LandOfGhost">
 </p>
 
