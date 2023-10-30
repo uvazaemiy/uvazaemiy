@@ -20,7 +20,7 @@
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC5.gif" width="260" alt="Trap Master">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="260" alt="Simple Match3">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC6.gif" width="264" alt="Loop Escape">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="213" alt="Kitty Mobile">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="215" alt="Kitty Mobile">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="783" alt="Casino">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="780" alt="LandOfGhost">
 </p>
