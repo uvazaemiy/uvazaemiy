@@ -32,23 +32,27 @@
 <li>Product quality</li>
 <li>Readable code</li>
 <li>Responsibility</li>
-<li>Teamwork</li></ul>
+<li>Teamwork</li>
 <li>Fast learner</li></ul>
 
 <p><b><font size="20" face="verdana">My used technology stacks and capabilities:</font></b></p>
 
-<ul><li>Dotween</li>
+<ul>
+<li>OOP</li>
+<li>Dotween</li>
 <li>PlayFab, Firebase</li>
 <li>Google Admob, Unity Ads</li>
 <li>PlayFab Analytics/Datastore</li>
 <li>Adjust</li>
 <li>Facebook, Game Analytics</li>
+<li>Github, Gitlab</li>
 <li>Particle system, basic VFX</li>
 <li>Spine animation, DragonBones</li>
 <li>Notifications</li>
 <li>NavMesh</li>
 <li>Ragdoll, 3D animations</li>
-<li>Localization system</li></ul>
+<li>Localization system</li>
+</ul>
 
 <p><b><font size="20" face="verdana">Also work with:</font></b></p>
 
