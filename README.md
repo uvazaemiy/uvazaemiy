@@ -13,11 +13,11 @@
 
 <p float="left">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="200" alt="SimpleMatch3">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC2.gif" width="167" alt="KittyMobile">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC8.gif" width="204" alt="BalanceBoard">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC7.gif" width="201" alt="PetPlayfab">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC2.gif" width="200" alt="KittyMobile">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC8.gif" width="200" alt="BalanceBoard">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC7.gif" width="200" alt="PetPlayfab">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC1.gif" width="200" alt="SimpleMatch3">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC5.gif" width="167" alt="KittyMobile">
+<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC5.gif" width="200" alt="KittyMobile">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/HC6.gif" width="204" alt="BalanceBoard">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="201" alt="PetPlayfab">
 <img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="783" alt="Casino">
