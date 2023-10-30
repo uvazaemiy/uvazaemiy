@@ -11,24 +11,68 @@
 <p> I've also worked with big publishers like Voodoo, Moonee, LionStudios, so I'm well versed with most game analytics services and ad SDKs.</p>
 <p>I invite you to take a brief look at some of my projects, the solutions I used in them, and to take a visual look at what they are.</p></font>
 
-<p float="left">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" width="200" alt="SimpleMatch3">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" width="167" alt="KittyMobile">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/BalanceBoard.gif" width="204" alt="BalanceBoard">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/PetPlayfab.gif" width="201" alt="PetPlayfab">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/Casino.gif" width="783" alt="Casino">
-<img src="https://github.com/uvazaemiy/uvazaemiy/blob/main/LandOfGhost.gif" width="780" alt="LandOfGhost">
-</p>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
 
-<p><b><font size="20" face="verdana">My skills and abilities:</font></b></p>
+  .image-container {
+    flex: 1;
+    margin: 10px;
+  }
 
-<ul><li>Communicative</li>
-<li>Speed of completing tasks</li>
-<li>Product quality</li>
-<li>Readable code</li>
-<li>Responsibility</li>
-<li>Teamwork</li></ul>
+  .image {
+    width: 100%;
+    max-width: 300px;
+  }
 
+  .text-container {
+    flex: 1;
+    text-align: left;
+    margin: 10px;
+  }
+
+  h1, h3 {
+    font-family: Verdana, sans-serif;
+  }
+
+  p {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <div class="image-container">
+      <img class="image" src="https://github.com/uvazaemiy/uvazaemiy/blob/main/SimpleMatch3.gif" alt="SimpleMatch3">
+    </div>
+    <div class="text-container">
+      <p>Project Description for SimpleMatch3</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="text-container">
+      <p>Project Description for KittyMobile</p>
+    </div>
+    <div class="image-container">
+      <img class="image" src="https://github.com/uvazaemiy/uvazaemiy/blob/main/KittyMobile.gif" alt="KittyMobile">
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="image-container">
+      <img class="image" src="https://github.com/uvazaemiy/uvazaemiy/blob/main/BalanceBoard.gif" alt="BalanceBoard">
+    </div>
+    <div class="text-container">
+      <p>Project Description for BalanceBoard</p>
+    </div>
+  </div>
+  <!-- Add similar code blocks for the other GIFs and their descriptions -->
+  
 <p><b><font size="20" face="verdana">My used technology stacks and capabilities:</font></b></p>
 
 <ul><li>Dotween.</li>
