@@ -52,6 +52,7 @@
 <li>NavMesh</li>
 <li>Ragdoll, 3D animations</li>
 <li>Localization system</li>
+<li>Zenject system</li>
 </ul>
 
 <p><b><font size="20" face="verdana">Also work with:</font></b></p>
